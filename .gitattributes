@@ -1,3 +1,1 @@
 *.json filter=lfs diff=lfs merge=lfs -text
-morpheus-apollo-3-15308430.json filter=lfs diff=lfs merge=lfs -text
-desmos-mainnet-7894230.json filter=lfs diff=lfs merge=lfs -text
